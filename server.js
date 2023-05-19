@@ -1,3 +1,13 @@
+/*********************************************************************************
+ * WEB422 – Assignment 1
+ * I declare that this assignment is my own work in accordance with Seneca Academic Policy.
+ * No part of this assignment has been copied manually or electronically from any other source
+ * (including web sites) or distributed to other students.
+ *
+ * Name: Vinh Nhan | Student ID: 171452212 | Date: May 19, 2023
+ * Cyclic Link: https://zany-wig-toad.cyclic.app/
+ *********************************************************************************/
+
 const express = require('express');
 const app = express();
 const cors = require('cors');
